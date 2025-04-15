@@ -14,7 +14,7 @@ This project provides a comprehensive toolkit for analyzing and visualizing circ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/interpretation.git
+git clone https://github.com/kaneyxx/interpretation.git
 cd interpretation
 
 # Install dependencies
