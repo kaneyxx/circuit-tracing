@@ -18,7 +18,7 @@ git clone https://github.com/yourusername/interpretation.git
 cd interpretation
 
 # Install dependencies
-pip install -r exploration/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 🏁 Quick Start
@@ -26,7 +26,7 @@ pip install -r exploration/requirements.txt
 Run the quickstart script to see the basic functionality in action:
 
 ```bash
-python exploration/quickstart.py
+python quickstart.py
 ```
 
 This will demonstrate:
